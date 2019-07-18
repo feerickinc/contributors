@@ -20,7 +20,7 @@ Thank You for Your interest in contributing to a FEERICKINC open source project.
 8. You agree to notify FEERICKINC of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
 
 
-**I Agree**:
+**I Agree**: yes
 
 ---
 
