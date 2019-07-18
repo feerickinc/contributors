@@ -22,9 +22,11 @@ Thank You for Your interest in contributing to a FEERICKINC open source project.
 
 **I Agree**:
 
+---
+
 Adding and registering your signature to this agreement is very simply done through the GitHub web interface as follows:
 
-- Open the edit option and just add ```yes``` after - and only after - the **Signed** field. 
+- Open the edit option and just add ```yes``` after - and only after - the **I Agree** field above. 
 - (Your Github identity is established later through a signed commit so no further information is required)
 - Save the changes and select the option to commit on the non-master branch that Github will select for you.
 - Raise a pull request; this will kick off an automated approval process.
