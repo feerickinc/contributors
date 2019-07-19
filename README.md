@@ -20,8 +20,8 @@ Thank You for Your interest in contributing to a FEERICKINC open source project.
 8. You agree to notify FEERICKINC of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.
 
 
-* [X] **I Agree**
-
+* [] **I Agree**
+**I Agree** * []
 ---
 
 Adding and registering your signature to this agreement is very simply done through the GitHub web interface as follows:
